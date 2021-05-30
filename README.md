@@ -1,1 +1,1 @@
-# My projects of the Udacity Data Scientist Nanodegree
+# My projects for the Udacity Data Scientist Nanodegree
