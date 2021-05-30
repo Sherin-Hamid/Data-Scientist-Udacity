@@ -17,7 +17,7 @@ Merges the two datasets
 Cleans the data
 Stores it in a SQLite database
 
-2. ML Pipeline
+### 2. ML Pipeline
 The Python script, train_classifier.py, includes a machine learning pipeline that:
 Loads data from the SQLite database
 Splits the dataset into training and test sets
