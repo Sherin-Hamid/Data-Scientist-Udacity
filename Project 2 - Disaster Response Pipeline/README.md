@@ -26,5 +26,5 @@ Trains and tunes a model using GridSearchCV
 Outputs results on the test set
 Exports the final model as a pickle file
 
-3. Flask Web App
+### 3. Flask Web App
 A web app where an emergency worker can input a new message and get classification results in several categories. The web app also displays visualizations of the data.
