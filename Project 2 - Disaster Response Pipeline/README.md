@@ -10,7 +10,7 @@ The project includes a web app where an emergency worker can input a new message
 ## Project Components:
 There are three components in this project.
 
-1. ETL Pipeline
+### 1. ETL Pipeline
 The Python script, process_data.py, includes a data cleaning pipeline that:
 Loads the messages and categories datasets
 Merges the two datasets
