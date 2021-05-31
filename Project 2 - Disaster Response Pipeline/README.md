@@ -49,4 +49,4 @@ A web app where an emergency worker can input a new message and get classificati
         6. In a new web browser window, type in the following: 
            `https://SPACEID-3001.SPACEDOMAIN`
            
-           You should be able to see the web app. The number 3001 represents the port where your web app will show            up. Make sure that the 3001 is part of the web address you type in.
+           You should be able to see the web app. The number 3001 represents the port where the web app will show            up. Make sure that the 3001 is part of the web address you type in.
