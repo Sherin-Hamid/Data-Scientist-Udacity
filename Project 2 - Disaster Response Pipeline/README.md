@@ -42,6 +42,7 @@ A web app where an emergency worker can input a new message and get classificati
     - To run the Flask Web app
         1. Open a new terminal window. Use terminal commands to navigate inside the app folder with the run.py                file.
         2. Type in the command line: `python run.py`
+           
            The web app should now be running if there were no errors.
         4. Now, open another Terminal Window.
         5. Type: `env|grep WORK`
