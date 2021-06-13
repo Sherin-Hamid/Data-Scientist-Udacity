@@ -9,9 +9,13 @@ Listings, including full descriptions and average review score
 
 ## Business questions answered
 What are the busiest neighborgoods in Seattle in terms of short-term housing?
+
 What is the average price of short-term housing at each neighborhood?
+
 What are the neighborhoods with most variability in listing prices?
+
 What is the most sought after type of accommodation of each Seattle neighborhood?
+
 Based on the listings datasets, how can we predict the price of a new listing?
 
 
