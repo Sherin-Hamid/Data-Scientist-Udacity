@@ -3,7 +3,7 @@ Starbucks Capstone Challenge
 
 This is the capstone project for Udacity’s Data Scientist Nanodegree
 
-# Overview
+## Overview
 
 In this project, we work on a dataset that contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. 
 
@@ -15,7 +15,7 @@ We should also take into account that some demographic groups will make purchase
 
 Not all users receive the same offer, and that is the challenge to solve with this dataset. Our task is to combine transaction, demographic, and offer data to determine which demographic groups respond best to which offer type. This dataset is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
 
-# Dataset
+## Dataset
 
 The data is contained in three files:
 
@@ -46,6 +46,6 @@ Here is the schema and explanation of each variable in the files:
 * time (int) - time in hours since start of test. The data begins at time t=0
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
-# Target
+## Target
 The target of our data modeling stage is to predict whether a user will respond to (i.e., complete) an offer or only view it. This can be implemented as a classification problem of two classes; offer_completedd or offer_viewed.
 
